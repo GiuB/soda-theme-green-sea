@@ -8,7 +8,7 @@ Required: [Soda Theme Plugin](http://buymeasoda.github.com/soda-theme/)
 
 ## Soda Dark Green Sea GiuB Design
 
-![Soda Light Theme](http://giub.it/wp-content/uploads/2013/09/soda-dark-green-sea-giub-theme.png)
+![Soda Dark Green Sea GiuB Theme](http://giub.it/wp-content/uploads/2013/09/soda-dark-green-sea.png)
 
 ## Manual Installation
 
@@ -17,6 +17,7 @@ Required: [Soda Theme Plugin](http://buymeasoda.github.com/soda-theme/)
 * Unzip the files and rename the folder to `Soda Dark Green Sea GiuB`
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 * Copy the folder into your Sublime Text `Packages/Theme - Soda` directory
+* RESTART SUBLIME!
 
 ## Installation Using Git
 
